@@ -18,9 +18,9 @@
     ````
 - Install Libraries
 ```
-pip install -r re
+pip install -r requirements.txt
 ```
-- Run the app requirements.txt
+- Run the app
 ```python
 stremlit run app.py
 ```
