@@ -8,6 +8,9 @@ __pycache__/
 
 # Distribution / packaging
 venv/
+# Allow .dvc files to be tracked
+!Model/*.dvc
+Model/*
 .Python
 build/
 develop-eggs/
